@@ -1,2 +1,0 @@
-# ISCLAB
-Laboratorio de ISC
